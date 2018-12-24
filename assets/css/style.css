@@ -1,0 +1,253 @@
+#cidade{
+    background: #B71C1C;
+    color: #fff;
+}
+
+.notaf{
+    background: #B71C1C;
+    color: #fff;
+    font-size: 30px;
+    border: 1px solid #fff;
+    border-bottom: 1px solid #b71c1c;
+    border-right: 1px solid #fff;
+    font-weight: 900;
+    padding-left: 30px !important;
+}
+.dispersao{
+    background: #B71C1C;
+    color: #fff;
+    font-size: 20px;
+}
+
+.border-top{
+    border-top: 1px solid !important;
+}
+
+.header-2{
+    margin-top: 20px;
+}
+.border-left{
+    border-left: 1px solid #fff;
+}
+
+
+#cidade-azul{
+    background: #0d47a1;
+    color: #fff;
+}
+
+.notafazul{
+    background: #0d47a1;
+    color: #fff;
+    font-size: 30px;
+    border: 1px solid #fff;
+    border-bottom: 1px solid #0d47a1;
+    border-right: 1px solid #fff;
+    font-weight: 900;
+    padding-left: 30px !important;
+}
+.dispersaoazul{
+    background: #0d47a1;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.header-2-azul{
+    margin-top: 20px;
+}
+
+
+
+
+#cidade-amarelo{
+    background: #FBC02D;
+    color: #fff;
+}
+
+.notafamarelo{
+    background: #ffffff;
+    color: #FBC02D;
+    font-size: 30px;
+    border: 1px solid #FBC02D;
+    border-bottom: 1px solid #FBC02D;
+    border-right: 1px solid #FBC02D;
+    font-weight: 900;
+    padding-left: 80px !important;
+    
+}
+.dispersaoamarelo{
+    background: #FBC02D;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.header-2-amarelo{
+    margin-top: 20px;
+}
+
+.linha{
+    height: 66px;/*Altura da linha*/
+    border-right: 1px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+    margin-bottom: -35px;
+    margin-left: -4px;
+}
+
+
+#cidade-azulclaro{
+    background: #26c6da;
+    color: #fff;
+}
+
+.notafazulclaro{
+    background: #26c6da;
+    color: #ffffff;
+    font-size: 30px;
+    border: 1px solid #ffffff;
+    border-bottom: 1px solid #26c6da;
+    border-right: 1px solid #ffffff;
+    font-weight: 900;
+    padding-left: 80px !important;
+    
+}
+.dispersaoazulclaro{
+    background: #26c6da;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.header-2-azulclaro{
+    margin-top: 20px;
+}
+
+
+
+
+#cidade-marrom{
+    background: #795548;
+    color: #fff;
+}
+
+.notafmarrom{
+    background: #795548;
+    color: #ffffff;
+    font-size: 30px;
+    border: 1px solid #ffffff;
+    border-bottom: 1px solid #795548;
+    border-right: 1px solid #ffffff;
+    font-weight: 900;
+    padding-left: 80px !important;
+    
+}
+.dispersaomarrom{
+    background: #795548;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.header-2-marrom{
+    margin-top: 20px;
+}
+
+
+
+.table{
+    box-shadow: 9px 5px 3px #a5a4a4;
+    -webkit-box-shadow: 9px 5px 3px #a5a4a4;
+    -moz-box-shadow: 9px 5px 3px #a5a4a4;
+}
+
+
+#r1{
+    background: #343a40;
+    color: #fff;
+}
+footer{
+    background: #343a40;
+    padding: 20px;
+}
+@media (max-width: 575.98px) { 
+    
+
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    
+
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+
+ }
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+
+ }
+@media (min-width: 1200px) and (max-width: 1366.98px) { 
+    #cidade {
+              font-size: 12px;
+    }
+    .table td, .table th {
+        font-size: 12px;
+    }
+
+    .notaf {
+        background: #B71C1C;
+        color: #fff;
+        font-size: 20px !important;
+        border: 1px solid #fff;
+        border-bottom: 1px solid #b71c1c;
+        border-right: 1px solid #fff;
+        font-weight: 900;
+        padding-left: 50px !important;
+        padding-top:30px !important;
+
+    }
+
+    .header-2 {
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .header-2-azul {
+        margin-top: 20px;
+        font-size: 12px;
+    }
+
+    .linha {
+        height: 55px;
+        border-right: 1px solid;
+        margin-bottom: -35px;
+        margin-left: -1px;
+    }
+
+    .notafazul{
+        padding-left: 50px !important;
+        font-size: 20px !important;
+        padding-top:30px !important;
+
+    }
+
+    .notafamarelo{
+        padding-left: 50px !important;
+        font-size: 20px !important;
+        padding-top:30px !important;
+    }
+
+    .notafazulclaro{
+        padding-left: 50px !important;
+        font-size: 20px !important;
+        padding-top:30px !important;
+    }
+
+    .notafmarrom{
+        padding-left: 50px !important;
+        font-size: 20px !important;
+        padding-top:30px !important;
+    }    
+
+ }
